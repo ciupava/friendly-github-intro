@@ -9,7 +9,7 @@
 
 ### Participants
 
-* 
+* Anna Zanchetta - github: [@ciupava](https://github.com/ciupava)
 * 
 * 
 * 
